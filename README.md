@@ -3,6 +3,7 @@
 
 * 🔭 Atualmente, estou estudando ciencia da computação na Universidade, trabalho como freelancer e desenvolvo soluções nos tempos livres
 * 🧠 eu estudo javascript sempre de olho nas boas práticas e ferramentas recomendadas no processo de desenvolvimento
+* ⚡ Curto muito programar e estou sempre de olho nas melhores tecnologias e ferramentas utilizadas no mercado
 * 🥇 Objetivos 2021-2022: Focar na universidade, aprimorar minhas habilidades em javascript, desenvolver soluções webs e conseguir um emprego
 
 ### Minhas redes sociais:
