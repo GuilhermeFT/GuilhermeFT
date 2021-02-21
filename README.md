@@ -1,20 +1,18 @@
-### Hi there, i'm Guilherme 👋
-# I'm a CS Student and Developer!
+### Olá, meu nome é Guilherme 👋
+# Eu sou um Estudante e Desenvolvedor!
 
-* 🔭 I’m currently working on freelancer and computer assistance
-* 🌱 I’m currently learning javascript and i'm always looking for new technologies
-* 🥇 2020-2021 Goals: work with development systems and get a job
-* ⚡ Fun fact: play games and think of solutions to study
+* 🔭 Atualmente, estou estudando ciencia da computação na Universidade, trabalho como freelancer e desenvolvo soluções nos tempos livres
+* 🧠 eu estudo javascript sempre de olho nas boas práticas e ferramentas recomendadas no processo de desenvolvimento
+* 🥇 Objetivos 2021-2022: Focar na universidade, aprimorar minhas habilidades em javascript, desenvolver soluções webs e conseguir um emprego
 
-
-### Connect with me:
+### Minhas redes sociais:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Languages and Tools:
+### Algumas ferramentas que utilizo ou ja utilizei:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,15 +30,11 @@
 
 ----
 
-
 <h1>GitHub Stats</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFT"/>
 
 <h1>GitHub Languages</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFT&layout=compact" />
-
-
-
 
 [instagram]: https://www.instagram.com/guilherme.gft/
 [linkedin]: https://www.linkedin.com/in/guilherme-ft-5b2a26178/
