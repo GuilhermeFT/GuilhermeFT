@@ -37,7 +37,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFT"/>
 
 <h1>GitHub Languages</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFT&layout=compact" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFT&layout=compact" />
 
 
 
